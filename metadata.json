@@ -1,0 +1,7 @@
+{
+  "name": "AgroDirect Nigeria",
+  "description": "A high-performance, mobile-first farm-to-consumer marketplace connecting Nigerian farmers directly with buyers. Features AI price recommendations, location-based search, and secure checkout.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
